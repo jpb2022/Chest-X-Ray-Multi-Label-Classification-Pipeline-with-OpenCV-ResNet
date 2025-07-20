@@ -37,7 +37,8 @@ The project uses the NIH Chest X-ray Dataset which contains:
 
 The dataset should be organized as:
 
-project_root/
+project_root/:
+
 ├── xray_images/   # Folder containing all X-ray images
 
 ├── Ground_Truth.csv # CSV file with image labels
@@ -203,6 +204,18 @@ Potential improvements and extensions:
 3. Implement more sophisticated hybrid feature fusion techniques
 4. Develop a web-based interface for clinical use
 5. Add DICOM support for direct hospital integration
+
+---
+
+## 🙋‍♂️ Author
+
+**Jitendra Kumar Gupta**  
+📧 [jitendraguptaaur@gmail.com](mailto:jitendraguptaaur@gmail.com)  
+🔗 [LinkedIn: jitendra-gupta-iitk](https://www.linkedin.com/in/jitendra-kumar-30a78216a/)  
+🎓 M.Tech – IIT Kanpur | B.Tech – NIT Surat  
+🧠 Focused on Machine Learning, NLP, and Generative AI
+
+---
 
 ## License
 
