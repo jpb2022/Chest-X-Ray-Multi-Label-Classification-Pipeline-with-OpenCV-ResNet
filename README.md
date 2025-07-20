@@ -222,6 +222,3 @@ Potential improvements and extensions:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-This README provides comprehensive documentation for your project, covering all aspects from setup to implementation details and results. You may want to customize certain sections (like the license or specific file paths) to match your exact project configuration.
-
-The structure follows best practices for technical documentation, with clear sections that help users understand, implement, and extend your work. The inclusion of visual examples (which would be rendered from your actual output images when viewed on GitHub) makes the documentation more engaging and informative.
