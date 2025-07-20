@@ -204,16 +204,6 @@ Potential improvements and extensions:
 4. Develop a web-based interface for clinical use
 5. Add DICOM support for direct hospital integration
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README provides comprehensive documentation for your project, covering all aspects from setup to implementation details and results. You may want to customize certain sections (like the license or specific file paths) to match your exact project configuration.
-
-The structure follows best practices for technical documentation, with clear sections that help users understand, implement, and extend your work. The inclusion of visual examples (which would be rendered from your actual output images when viewed on GitHub) makes the documentation more engaging and informative.
-
-
 ---
 
 ## 🙋‍♂️ Author
@@ -225,3 +215,15 @@ The structure follows best practices for technical documentation, with clear sec
 🧠 Focused on Machine Learning, NLP, and Generative AI
 
 ---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+This README provides comprehensive documentation for your project, covering all aspects from setup to implementation details and results. You may want to customize certain sections (like the license or specific file paths) to match your exact project configuration.
+
+The structure follows best practices for technical documentation, with clear sections that help users understand, implement, and extend your work. The inclusion of visual examples (which would be rendered from your actual output images when viewed on GitHub) makes the documentation more engaging and informative.
+
+
+
