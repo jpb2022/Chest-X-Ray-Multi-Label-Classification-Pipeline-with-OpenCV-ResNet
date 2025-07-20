@@ -36,9 +36,11 @@ The project uses the NIH Chest X-ray Dataset which contains:
 - Multi-label annotations (each image can have multiple diseases)
 
 The dataset should be organized as:
+
 project_root/
 │
 ├── xray_images/ # Folder containing all X-ray images
+
 ├── Ground_Truth.csv # CSV file with image labels
 
 
