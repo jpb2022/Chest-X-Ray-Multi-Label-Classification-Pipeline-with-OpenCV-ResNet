@@ -38,8 +38,7 @@ The project uses the NIH Chest X-ray Dataset which contains:
 The dataset should be organized as:
 
 project_root/
-│
-├── xray_images/ # Folder containing all X-ray images
+├── xray_images/   # Folder containing all X-ray images
 
 ├── Ground_Truth.csv # CSV file with image labels
 
