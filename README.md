@@ -1,6 +1,5 @@
-Here's a detailed README.md file for your GitHub repository that explains the Chest X-Ray Multi-Label Classification project:
 
-```markdown
+
 # Chest X-Ray Multi-Label Classification Pipeline
 
 This project implements a deep learning pipeline for multi-label classification of chest X-ray images using both traditional deep learning approaches and hybrid models combining deep learning with traditional computer vision features.
@@ -37,7 +36,6 @@ The project uses the NIH Chest X-ray Dataset which contains:
 - Multi-label annotations (each image can have multiple diseases)
 
 The dataset should be organized as:
-```
 project_root/
 │
 ├── xray_images/          # Folder containing all X-ray images
